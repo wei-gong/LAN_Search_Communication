@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LAN_Search_Communication.iml" filepath="$PROJECT_DIR$/LAN_Search_Communication.iml" />
+      <module fileurl="file://D:\Respository\LAN_Search_Communication\slave\device.iml" filepath="D:\Respository\LAN_Search_Communication\slave\device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/host/host.iml" filepath="$PROJECT_DIR$/host/host.iml" />
+      <module fileurl="file://D:\Respository\LAN_Search_Communication\host\mobile.iml" filepath="D:\Respository\LAN_Search_Communication\host\mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remote/remote.iml" filepath="$PROJECT_DIR$/remote/remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slave/slave.iml" filepath="$PROJECT_DIR$/slave/slave.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <variable
+            name="isOpen"
+            type="java.lang.Boolean"/>
+    </data>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="32dp">
+
+        <Button
+            android:id="@+id/btn_open_responser"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text='@{isOpen ? "关闭应答" : "打开应答"}'/>
+
+    </LinearLayout>
+
+</layout>
